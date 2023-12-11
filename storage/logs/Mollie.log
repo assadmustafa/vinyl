@@ -1,0 +1,7 @@
+2023-06-29 7:47:57 - Orders API: Order created : order_id - 1, mollie_order_id - ord_y0dgfe
+2023-06-29 7:48:02 - Received webhook for order : ord_y0dgfe
+2023-06-29 7:48:02 - Webhook for order : Updated mollie payment. transaction_id - tr_Vge3VKeRFU, status - paid, order_id - 1, mollie_order_id - ord_y0dgfe
+2023-06-29 7:48:03 - Webhook for order : The payment was received/authorised and the order 1, ord_y0dgfe was moved to the 'processing' status (new status ID: 2).
+2023-06-29 7:48:03 - Received callback for order : 1
+2023-06-29 7:48:03 - Updated mollie payment. transaction_id - tr_Vge3VKeRFU, status - paid, order_id - 1, mollie_order_id - ord_y0dgfe
+2023-06-29 7:48:03 - Success redirect to success page for order - 1, ord_y0dgfe
